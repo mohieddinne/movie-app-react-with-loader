@@ -1,0 +1,16 @@
+input{
+    border-radius: 10%;
+}
+label {
+    font-size: xx-large;
+}
+body{
+    text-align: center;
+padding-top: 50px;
+}
+.add{
+  padding-top: 20px;
+   border-radius: 8%;
+ 
+    
+}
